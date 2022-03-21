@@ -1,0 +1,63 @@
+
+T
+java:S1854"9Remove this useless assignment to local variable "name2".(í¢¼üÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "name1".(³ÆÂê
+S
+java:S1854"8Remove this useless assignment to local variable "num6".(‰şçêùÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "num5".(¡¿¾™
+S
+java:S1854"8Remove this useless assignment to local variable "num4".(Şëê ûÿÿÿÿ
+S
+java:S1854
+"8Remove this useless assignment to local variable "num3".(Õÿşöşÿÿÿÿ
+S
+java:S1854	"8Remove this useless assignment to local variable "num2".(“ãô»üÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "num1".(œ–Õ¹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ü°¸¢øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+?
+java:S1481")Remove this unused "num1" local variable.(œ–Õ¹
+D
+java:S1481	")Remove this unused "num2" local variable.(“ãô»üÿÿÿÿ
+D
+java:S1481
+")Remove this unused "num3" local variable.(Õÿşöşÿÿÿÿ
+D
+java:S1481")Remove this unused "num4" local variable.(Şëê ûÿÿÿÿ
+?
+java:S1481")Remove this unused "num5" local variable.(¡¿¾™
+D
+java:S1481")Remove this unused "num6" local variable.(‰şçêùÿÿÿÿ
+@
+java:S1481"*Remove this unused "name1" local variable.(³ÆÂê
+E
+java:S1481"*Remove this unused "name2" local variable.(í¢¼üÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(÷Å‘Y
+N	java:S106"9Replace this use of System.out or System.err by a logger.(à««Ë
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ä¼À
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í©İûÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(÷ÈÖúşÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Ïø÷¿üÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Ÿš’ˆıÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(£º¾¬øÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(«ß”É
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ŸÇğ‡
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(æß†ª
+;
+java:S21293" Remove this "String" constructor(°¡¶Øùÿÿÿÿ
+6
+java:S21294" Remove this "String" constructor(ô•Ú«
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(Ô´í°úÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(¾¸é´øÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(–‰·şÿÿÿÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "Hello" 5 times.(í¢¼üÿÿÿÿ
+W
+java:S49737"<Strings and Boxed types should be compared using "equals()".(Ô´í°úÿÿÿÿ
+W
+java:S49738"<Strings and Boxed types should be compared using "equals()".(¾¸é´øÿÿÿÿ
+R
+java:S2589<"7Remove this expression which always evaluates to "true"(ıü‡Ìûÿÿÿÿ

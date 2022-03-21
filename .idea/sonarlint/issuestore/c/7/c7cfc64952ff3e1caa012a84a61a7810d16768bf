@@ -1,0 +1,36 @@
+
+R
+java:S1854"5Remove this useless assignment to local variable "k".(ƒï†‡8Ñ†Ñªú/
+R
+java:S1854"5Remove this useless assignment to local variable "j".(ìš§8Ñ†Ñªú/
+W
+java:S1854	"5Remove this useless assignment to local variable "d".(ÁÖŒ°ÿÿÿÿÿ8Ñ†Ñªú/
+R
+java:S1854"5Remove this useless assignment to local variable "c".(–®µÈ8Ò†Ñªú/
+C
+java:S1481"&Remove this unused "c" local variable.(–®µÈ8Õ†Ñªú/
+H
+java:S1481	"&Remove this unused "d" local variable.(ÁÖŒ°ÿÿÿÿÿ8Ö†Ñªú/
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(­ –8×†Ñªú/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ’‘Îıÿÿÿÿ8Ø†Ñªú/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(áÌôÙ8Û†Ñªú/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æÛ«şÿÿÿÿ8Ü†Ñªú/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿê‹õùÿÿÿÿ8İ†Ñªú/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‰ÁˆĞ8Ş†Ñªú/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ôÃ¹}8ß†Ñªú/
+C
+java:S1481"&Remove this unused "j" local variable.(ìš§8à†Ñªú/
+C
+java:S1481"&Remove this unused "k" local variable.(ƒï†‡8á†Ñªú/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÕˆÁ‘ûÿÿÿÿ8å†Ñªú/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ˆ¢¶8æ†Ñªú/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(Éâ‰ûüÿÿÿÿ8é†Ñªú/
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(§ÅÀÉøÿÿÿÿ8ê†Ñªú/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(…İ¬8ë†Ñªú/
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ÑĞ»‘8ì†Ñªú/
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ö§²–8î†Ñªú/
+Y
+java:S2589%"7Remove this expression which always evaluates to "true"(Éâ‰ûüÿÿÿÿ8¢‡Ñªú/
+T
+java:S2589$"7Remove this expression which always evaluates to "true"(ˆ¢¶8¢‡Ñªú/
