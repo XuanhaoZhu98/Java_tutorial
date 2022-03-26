@@ -21,6 +21,12 @@ public class Application {
         Course math = new Course("Math");
         System.out.println(math.name);
 
+        Pet jack = new Pet();
+        jack.age = 3;
+        jack.name = "Jack Wood";
+        jack.braking();
+
+
 
     }
 }
